@@ -1,0 +1,50 @@
+/*
+Estilos da página index.html
+*/
+
+.center {
+
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+.p-30{
+    font-size: 24px;
+}
+#menu li{
+    display: inline;
+    margin: 15px;
+}
+#menu li a {
+    text-decoration: none;
+    color: black;
+}
+#menu li a:hover {
+    color: rgb(252, 215, 5);
+}
+.p-30 {
+    padding: 30px;
+}
+.tm-social {
+    width: 50px;
+    height: 50px;
+ }
+ .tm-socialrango {
+    width: 52x;
+    height: 52px;
+ }
+ 
+ .mb-50{
+    margin-bottom: 50px;
+ }
+ 
+/*
+Estilos da página contacts.html
+*/
+.ml-50 {
+    margin-left :  50 px ;
+ } 
